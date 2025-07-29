@@ -1,0 +1,10 @@
+{
+    "name": "EasyMode",
+    "version_number": "0.2.0",
+    "website_url": "",
+    "description": "Health*2, Health Regen ++, Fall Damage -, Stamina ++",
+    "dependencies": [
+        "dakkhuza-MTFO-4.6.2",
+		"BepInEx-BepInExPack_GTFO-3.2.1"
+    ]
+}
