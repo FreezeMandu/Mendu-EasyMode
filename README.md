@@ -1,4 +1,5 @@
 마감 전에 삭제!! https://cheezzapisse.tistory.com/11
+https://www.reddit.com/r/GTFO/comments/vmbmg2/stealth_in_gtfo_p1_a_comprehensive_guide_w/
 
 GTFO Easy Mode
 
