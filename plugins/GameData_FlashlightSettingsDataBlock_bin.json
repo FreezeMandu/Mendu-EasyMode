@@ -2,8 +2,8 @@
   "Headers": [],
   "Blocks": [
     {
-      "range": 15.0,
-      "angle": 50.0,
+      "range": 13.5,
+      "angle": 55.0,
       "intensity": 0.35,
       "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightCookieSquareLantern.tif",
       "color": {

@@ -2,7 +2,7 @@
     "name": "EasyMode",
     "version_number": "0.3.1",
     "website_url": "",
-    "description": "입문하려고 봤더니 난이도가 조금 어려운 사람에게 추천합니다. \n체력 2배, 체력 회복력 상승, 스태미나 회복력 상승, 낙하 데미지 감소, 탄 보유량*1.5. \nHealth*2, Health Regen ++, Stamina ++, Fall Damage -",
+    "description": "입문하려고 봤더니 난이도가 조금 어려운 사람에게 추천합니다. \n체력 2배, 체력 회복력 상승, 스태미나 회복력 상승, 낙하 데미지 감소, 탄 보유량*1.5, 더 넓어지고 밝아진 헤드라이트. \nHealth*2, Health Regen ++, Stamina ++, Fall Damage -",
     "dependencies": [
         "dakkhuza-MTFO-4.6.2",
 		"BepInEx-BepInExPack_GTFO-3.2.1"
