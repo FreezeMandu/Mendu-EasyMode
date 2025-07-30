@@ -1,4 +1,6 @@
-GTFO Easy Mode\
+마감 전에 삭제!! https://cheezzapisse.tistory.com/11
+
+GTFO Easy Mode
 
 **체력 2배** - 인게임 화면으로는 데미지가 절반 깎여 들어오는걸로 보입니다.\
 **체력 회복력 상승** - 회복속도, 최대 회복량이 2배 가까이 상승했습니다.\
