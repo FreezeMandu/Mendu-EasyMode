@@ -2,8 +2,8 @@
   "Headers": [],
   "Blocks": [
     {
-      "range": 11.0,
-      "angle": 40.0,
+      "range": 15.0,
+      "angle": 50.0,
       "intensity": 0.35,
       "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightCookieSquareLantern.tif",
       "color": {
@@ -18,7 +18,7 @@
       "persistentID": 1
     },
     {
-      "range": 8.0,
+      "range": 11.0,
       "angle": 65.0,
       "intensity": 0.55,
       "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightRegularCookie_03.tga",
@@ -34,7 +34,7 @@
       "persistentID": 2
     },
     {
-      "range": 13.0,
+      "range": 14.0,
       "angle": 45.0,
       "intensity": 0.5,
       "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightRegularCookie_05.tga",
@@ -50,7 +50,7 @@
       "persistentID": 7
     },
     {
-      "range": 15.0,
+      "range": 16.0,
       "angle": 35.0,
       "intensity": 0.5,
       "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightRegularCookie_01.tga",
@@ -66,7 +66,7 @@
       "persistentID": 3
     },
     {
-      "range": 16.0,
+      "range": 18.0,
       "angle": 70.0,
       "intensity": 0.9,
       "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightRegularCookie_06.tga",
