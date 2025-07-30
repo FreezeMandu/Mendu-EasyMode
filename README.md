@@ -1,1 +1,1 @@
-**Better Player Stats**
+**GTFO Easy Mode**
