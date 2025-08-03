@@ -5,7 +5,7 @@
       "weaponDetectionDistanceMin": 10.0,
       "weaponDetectionDistanceMax": 50.0,
       "detectionNodeDistanceMax": 2.0,
-      "movementDetectionDistance": 8.0,
+      "movementDetectionDistance": 6.0,
       "detectionBuildupSpeed": 2.0,
       "detectionCooldownSpeed": 0.075,
       "name": "DefaultDetection",

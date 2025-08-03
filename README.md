@@ -9,11 +9,12 @@ GTFO Easy Mode
 **낙하 데미지/높이 감소** - 낙뎀 최소 높이 4m -> 10m\
 **총기 탄 최대량 × 1.5** - 센트리와 데미지는 조정하지 않았습니다.\
 **더 넓어지고 밝아진 헤드라이트** - 기본 헤드라이트가 상향됨에 따라 무기 라이트도 상향 조정했습니다.\
-**적의 발걸음 인식 거리 감소** - 미완성. 생각보다 긴 감지 거리 때문에 스텔스 시간이 길어지며 전체 플레이타임이 늘어지는 것을 줄이고자 조정해봅니다.
+**적의 발걸음 인식 거리 감소** - 기존 8m -> 6m
 
 **Health × 2**\
 **Health Regen ++**\
 **Stamina Regen +**\
 **Fall Damage -**\
 **Weapon Ammo × 1.5**\
-**Headlight & Weapon Light +**
+**Headlight & Weapon Light +**\
+**Player Movement Detection Distance 8m -> 6m**

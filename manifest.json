@@ -1,6 +1,6 @@
 {
     "name": "EasyMode",
-    "version_number": "0.4.1",
+    "version_number": "0.5.0",
     "website_url": "",
     "description": "입문하려고 봤더니 난이도가 조금 어려운 사람에게 추천합니다. 게임이 익숙해지면 반드시 바닐라로 플레이하시길 바랍니다. 밸런스 조정 기록은 README를 확인해주세요.",
     "dependencies": [
