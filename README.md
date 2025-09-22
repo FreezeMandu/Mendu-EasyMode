@@ -1,6 +1,3 @@
-마감 전에 삭제!! https://cheezzapisse.tistory.com/11
-https://www.reddit.com/r/GTFO/comments/vmbmg2/stealth_in_gtfo_p1_a_comprehensive_guide_w/
-
 GTFO Easy Mode
 
 **체력 2배** - 인게임 화면으로는 데미지가 절반 깎여 들어오는걸로 보입니다.\
